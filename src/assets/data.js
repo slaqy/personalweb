@@ -23,9 +23,6 @@ export const info = [
     },
     {
         text: 'Projects'
-    },
-    {
-        text: 'About'
     }
 
 ]
